@@ -9,6 +9,8 @@ Repo for assignments and implementations from the fast.ai deep learning MOOC
    * <a href = https://github.com/anjay1101/fast.ai/blob/master/Illusion-Sensing.ipynb > Illusion Sensing <a> implementation
 
 * Lesson 2 – <a href = "https://course.fast.ai/videos/?lesson=2"> Data cleaning and production; SGD from Scratch <a>
+   * <a href = https://github.com/anjay1101/fast.ai/blob/master/Desktop-Classif.ipynb > Screenshot Classifier <a> 
+    * simple web app found <a href = https://desktop-cleaner.onrender.com/> here </a>
 
     
  
@@ -16,7 +18,7 @@ Repo for assignments and implementations from the fast.ai deep learning MOOC
  <ul>
   <li>[x] create a Github repo for all of this </li>
 <li>[x] apply a CNN to some scraped images </li>
-<li>[ ] create a web app for a CNN </li>
+<li>[x] create a web app for a CNN </li>
 - free hosting can be found online <br>
 - starlette is supposed to be good 
 <li> [ ] start a kaggle competition </li>
