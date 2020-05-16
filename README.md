@@ -17,12 +17,12 @@ Part 1: <a href = "https://github.com/anjay1101/fast.ai/blob/master/Practical_De
   <li>[x] create a Github repo for all of this </li>
 <li>[x] apply a CNN to some scraped images </li>
 <li>[ ] create a web app for a CNN </li>
-<li> <li> free hosting can be found online </li> </li>
-<li> <li> starlette is supposed to be good </li> </li>
+- free hosting can be found online 
+- starlette is supposed to be good 
 <li> [ ] start a kaggle competition </li>
-<li> <li> set up the API </li> </li>
-<li> <li> include train, val split </li> </li>
-<li> <li> submit something & get a score </li> </li>
+- set up the API
+- include train, val split 
+- submit something & get a score 
 <li> [ ] apply a CNN to something EA related </li>
 <li> [ ] imagify some data and then apply a CNN </li>
 <li> [ ] create a useful CNN production online (maybe on my website or blog) </li>
