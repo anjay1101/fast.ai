@@ -12,7 +12,7 @@ Part 1: <a href = "https://github.com/anjay1101/fast.ai/blob/master/Practical_De
 
     
  
- To do
+ <b> To do </b>
  <ul>
   <li>[x] create a Github repo for all of this </li>
 <li>[x] apply a CNN to some scraped images </li>
