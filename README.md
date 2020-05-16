@@ -6,6 +6,8 @@ Part 1: <a href = "https://github.com/anjay1101/fast.ai/blob/master/Practical_De
 * Lesson 1 – <a href = "https://course.fast.ai/videos/?lesson=1"> Image Classification 
    * <a href = https://github.com/anjay1101/fast.ai/blob/master/Celebrity_Classification.ipynb > Celebrity Classification <a> implementation
    * <a href = https://github.com/anjay1101/fast.ai/blob/master/Berry_Classif.ipynb > Berry Classification <a> implementation
-  
+
+* Lesson 2 – <a href = "https://course.fast.ai/videos/?lesson=2"> Data cleaning and production; SGD from Scratch <a>
+
   
  
