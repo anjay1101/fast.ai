@@ -8,6 +8,7 @@ Part 1: <a href = "https://github.com/anjay1101/fast.ai/blob/master/Practical_De
    * <a href = https://github.com/anjay1101/fast.ai/blob/master/Berry_Classif.ipynb > Berry Classification <a> implementation
    * <a href = https://github.com/anjay1101/fast.ai/blob/master/Illusion-Sensing.ipynb > Illusion Sensing <a> implementation
 
-  
-  
+* Lesson 2 – <a href = "https://course.fast.ai/videos/?lesson=2"> Data cleaning and production; SGD from Scratch <a>
+
+    
  
