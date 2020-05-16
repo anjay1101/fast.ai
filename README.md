@@ -2,7 +2,7 @@
 Repo for assignments and implementations from the fast.ai deep learning MOOC
 
 
-Part 1: <a href = "https://github.com/anjay1101/fast.ai/blob/master/Practical_Deep_Learning_Notes.ipynb"> Practical Deep Learning <a>
+### Part 1: <a href = "https://github.com/anjay1101/fast.ai/blob/master/Practical_Deep_Learning_Notes.ipynb"> Practical Deep Learning <a>
 * Lesson 1 – <a href = "https://course.fast.ai/videos/?lesson=1"> Image Classification 
    * <a href = https://github.com/anjay1101/fast.ai/blob/master/Celebrity_Classification.ipynb > Celebrity Classification <a> implementation
    * <a href = https://github.com/anjay1101/fast.ai/blob/master/Berry_Classif.ipynb > Berry Classification <a> implementation
@@ -12,7 +12,7 @@ Part 1: <a href = "https://github.com/anjay1101/fast.ai/blob/master/Practical_De
 
     
  
- <b> To do </b>
+ ### To do 
  <ul>
   <li>[x] create a Github repo for all of this </li>
 <li>[x] apply a CNN to some scraped images </li>
