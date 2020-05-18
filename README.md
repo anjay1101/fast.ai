@@ -36,4 +36,7 @@ Repo for assignments and implementations from the fast.ai deep learning MOOC
 <li> [ ] contribute to fastai repo </li>
 <li> [ ] do/skim the computational linear algebra course </li>
 <li> [ ] do PyTorch course </li>
+<li> [ ] send email to ML Prof asking about summer plans for future research </li>
+<li> [ ] explore ML 80k podcast tips & write down plan </li>
+
 </ul>
